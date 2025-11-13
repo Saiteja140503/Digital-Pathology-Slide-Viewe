@@ -1,1 +1,1 @@
-# Digital-Pathology-Slide-Viewe
+# Digital-Pathology-Slide-Viewer
